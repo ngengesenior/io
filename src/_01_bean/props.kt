@@ -8,8 +8,4 @@ fun setProp(v:String){
     prop = v
 }
 
-//set(value){
-//    println("Setting new value")
-//    field = value
-//}
 
